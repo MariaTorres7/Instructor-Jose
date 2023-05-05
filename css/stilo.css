@@ -1,0 +1,12 @@
+body{
+    background :linear-gradient(pink, fuchsia, purple);
+    width: 100vh;
+    height: 100vh;   
+}
+button{
+    background-color: rgb(253, 220, 234);
+    border: none;
+    border-radius: 5px;
+    font-size: 100%;
+    
+}
